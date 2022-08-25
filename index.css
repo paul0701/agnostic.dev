@@ -4,8 +4,13 @@
   
   .page-one {
     position: relative;
+    background-color: #ee2935;
 }
   .page-two {
     position: relative;
-    background-color: #4717f6;
+    background-color: #ee2935;
+  }
+
+  .grey {
+    color: #4957ed;
   }
