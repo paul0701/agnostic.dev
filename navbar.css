@@ -1,0 +1,16 @@
+nav.navbar {
+    background-color: #0e0b16;
+    z-index: 1;
+    opacity: .9;
+    position: fixed;
+    top: 0;
+}
+
+.container-fluid a {
+    color: #e7dfdd;
+    letter-spacing: .1rem;
+}
+
+.burger {
+    font-size: 4vw;
+} 

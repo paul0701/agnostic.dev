@@ -1,0 +1,11 @@
+* {
+    font-family: 'Roboto Slab', serif;
+  }
+  
+  .page-one {
+    position: relative;
+}
+  .page-two {
+    position: relative;
+    background-color: #4717f6;
+  }
