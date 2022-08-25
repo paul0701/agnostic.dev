@@ -9,6 +9,7 @@
   .page-two {
     position: relative;
     background-color: #ee2935;
+    z-index: -1;
   }
 
   .grey {
