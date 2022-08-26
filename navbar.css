@@ -1,5 +1,5 @@
 nav.navbar {
-    background-color: #4957ed;
+    background-color: #9daaf2;
     z-index: 1;
     opacity: .9;
     position: fixed;
@@ -7,7 +7,7 @@ nav.navbar {
 }
 
 .container-fluid a {
-    color: #fff;
+    color: #0e0b16;
     letter-spacing: .1rem;
 }
 
