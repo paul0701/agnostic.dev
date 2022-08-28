@@ -4,7 +4,6 @@
   
   .page-one {
     position: relative;
-    background-color: ;
 }
   .page-two {
     position: relative;
@@ -13,9 +12,19 @@
   }
   .page-three {
     position: relative;
-    background-color: #1a2238;
+    background-color: #8D4B5B;
     z-index: -1;
   }
+
+  .svg {
+    position: absolute;
+    bottom: 2vh;
+    right: 2vw;
+    width: 20vw;
+    height: 30vh;
+
+  }
+
   .grey {
-    color: #ff6a3d;
+    color: #5626c4;
   }
